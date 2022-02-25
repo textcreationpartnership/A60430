@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarm sounding forth unto all the inhabitants of the earth as a warning before the vials of everlasting wrath be poured forth upon them.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1558</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60430</idno>
+            <idno type="STC">Wing S4052</idno>
+            <idno type="STC">ESTC R25764</idno>
+            <idno type="EEBO-CITATION">09113733</idno>
+            <idno type="OCLC">ocm 09113733</idno>
+            <idno type="VID">42462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarm sounding forth unto all the inhabitants of the earth as a warning before the vials of everlasting wrath be poured forth upon them.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from colop.</note>
+                  <note>Signed: Humphrey Smith.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment Day.</term>
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:42462:1" rendition="simple:additions"/>
+            <head>AN ALARUM, Sounding forth unto all the Inhabi<g ref="char:EOLhyphen"/>tants of the Earth, as a warning before the Vials of everlaſting wrath be pou<g ref="char:EOLhyphen"/>red forth upon them.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lord of Hoſts, whoſe Name <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whoſe Way is everlaſting, whoſe <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>reth for ever, whoſe Power is unlimited, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mercy endures for ever; vvhoſe judgements are juſt and true, and all his Wayes are equal; vvhoſe preſence is dreadful unto all the double minded; vvhoſe bright appearance is a fierce Whirlvvind of fire, and his voice as the terribleneſs of many Thunders; all the bovvels of the Earth are ript open by the dread of his povverful voice; and all the created Earthly things paſſeth avvay as if they had not been, becauſe of the preſence of the Almighty, and the fierce terror of the Lord of glory, vvho is novv ariſing as a Gyant unto the battel, and as a mighty man of valour unto the War; Who a long time hath held his peace, and hid his face, but novv ſaith the Lord, <hi>will I ariſe and roar like a Lyon, and utter my voice like a man of war; yea I will ariſe as a Lyon out of a Thicket, and a young Lyon out of the Forreſt; and I will thunder from Heaven, and darkneſs ſhall be upon the Earth, and with the fire of my jea<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſie ſhall the wicked be conſumed, and th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ungodly as the ſmok<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſheth for ever.</hi>
+            </p>
+            <p>Wherefore come all ye brambles of the Earth, and gather your ſelves together all ye briars, thorns and thiſtles, and all ye ſtrong oaks and tall cedars; yea, all ye fruitleſs trees tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long have cumbred the ground, behold, the day is at hand that you ſhall be conſumed for ever and as the ſtubble ready dry before an unquenchable fire, [that is kindled vvith the fierceneſs of the Wind of the Noſtrils of the Moſt High] ſo ſhal all the bram<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <pb n="2" facs="tcp:42462:2"/> of the earth be. Wherefore aſſemble your ſelves together O ye Heathen, and ſtand up to judgement O ye Princes and Ru<g ref="char:EOLhyphen"/>lers of the Earth, and prepare to meet the Lord, whoſe Trum<g ref="char:EOLhyphen"/>pet is ſounding an Alarum out of the holy Mountain to gather the whole hoſt of the Heathen to battel, and the people who know not God to the ſlaughter of the great King. A riſe ye I<g ref="char:EOLhyphen"/>dol ſhepherds, awake ye blood thirſty Rulers, ſtand up toge<g ref="char:EOLhyphen"/>ther ye fatted Bulls, let all the wild Horſes ſtand to the battel, ſaith the Lord of Hoſts, that I may pour out my indignation like fire upon them, &amp; conſume them as in a moment for ever; that I may give you blood to drink, &amp; fill you with torment for evermore; for thus ſaith the Lord, Once more wil I ariſe &amp; con<g ref="char:EOLhyphen"/>found mine Enemies, and eaſe me of mine Adverſaries; and I, even I will fill the Heathen with horror, and all mine Enemies with the blackneſs of darkneſs; a fire will I kindle in the bowels of the ſcornful, and in the proud ſhall the flames burn for ever<g ref="char:EOLhyphen"/>more; and all the Earth ſhall know that I the Lord in the midſt of them am mighty in power, and that none is able to deliver out of my hand: Therefore ſhall the ſhepherds howl for ever, &amp; the Prieſthood of England be confounded &amp; covered with a perpetual ſhame; the Nations afar off ſhal hiſs at them, and the Ages<g ref="char:punc">▪</g> to come ſhall call them accurſed; for the day is at hand that not a Tongue of all the dogs of Aegypt ſhall be lifted up againſt the ſeed that long hath groaned under the bondage of cruel oppreſſors, who bite with their teeth, and imagine evil up<g ref="char:EOLhyphen"/>on their beds, and lay ſnares for the ſouls of the innocent, and watch for iniquity to devour the ſimple</p>
+            <p>Therefore ſhall theſe things come upon you, an unbelieving generation, whoſe hearts are hardened, ears ſtopped, &amp; eyes clo<g ref="char:EOLhyphen"/>ſed, &amp; many of you ſealed up unto the great day of everlaſting deſtruction, which upon you the ſeed of evil-doers is ſtealing un<g ref="char:EOLhyphen"/>awares; neither ſhall you believe the things that are haſtening upon you, and declared unto you, for the Prophets &amp; Seers are covered, a deep ſleepe is upon the brutiſh Paſtors, and the vail is upon the heart of all who are under the old covenant, and many of them are given up to the hardneſs of their hearts, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd their conſciences are ſeared, and ſuch have yet a meaſure of wic<g ref="char:EOLhyphen"/>kedneſs to fill up, and then upon them the veſſels of wrath fit<g ref="char:EOLhyphen"/>ted for deſtruction, ſhall the flames of everlaſting burnings be
+<pb n="3" facs="tcp:42462:2"/> poured forth for ever from him that ſitteth upon the Throne,</p>
+            <p>Wherefore wo to the inhabitants of the earth for ever, wo to the proud and lofty ones, wo to all the hard hearted, abomina<g ref="char:EOLhyphen"/>ble, and unbelieving, the devil is come down among you, the old Dragon is head in you, the god of the world hath blinded your minds; the ſubtilty of the Serpent hath deceived you, and now Wo is your portion, you are undone for ever; your King is the Angel of the bottomleſs pit; Gog and Magog are your chief Captains; <hi>Cain</hi> is your Father; <hi>Nimrod</hi> the mighty Hunter, the builder of <hi>Babel,</hi> is your elder brother; the great Whore is your Mother; <hi>Iſhmael</hi> and you are of one houſe; <hi>Pharoah</hi> and <hi>Haman</hi> are your companions; <hi>Judas</hi> the betrayer of the Juſt, is near unto every one of you, and the life of the juſt cryes for venge<g ref="char:EOLhyphen"/>ance upon your head; the glittering ſword of the Moſt High is drawn to cut you down for ever; the Ax to the very root ſhall now come, and root and branch ſhall be cut off for ever.</p>
+            <p>Wherefore all ye Sorcerers, Witches, and ſons of the Whore, with all blaſphemers, who ſay you are Jews, and are not come to the true circumciſion, but ſervants of ſin, and ſo the Syna<g ref="char:EOLhyphen"/>gogue of Satan; and all you falſe Prophets who ſeed at <hi>Jezabels</hi> Table, and not at the Table of the Lord, nor never drunk of the blood of the new Covenant, to clenſe you from all ſin, but are daylie drinking the cup of Fornication, now come all toge<g ref="char:EOLhyphen"/>ther, the Standard of the Lord is lifted up againſt you, and you ſhall have to drink for ever the cup of the Wine of the fierce<g ref="char:EOLhyphen"/>neſs of the everlaſting Wrath of the Lord Almighty, and he will plague you with the Beaſt &amp; the Whore together for ever<g ref="char:EOLhyphen"/>more, and your ſeed ſhall be cut off the Earth, and your chil<g ref="char:EOLhyphen"/>dren from among the living<g ref="char:punc">▪</g> your memorial ſhall rot for ever<g ref="char:EOLhyphen"/>more, and your Name blotted out from under heaven, and all that hear of you, ſhall hiſs at you, and an aſtoniſhment and a hiſſing ſhall you be unto all people.</p>
+            <p>Where are Queen <hi>Maryes</hi> Judges and bloody perſecutors? Where are King <hi>Char's</hi> his Nobles, and the glory of his mighty men, and the number of his horſemen, and the multitude of his oppreſſing army, and unmerciful tyrants, who ſought to drive down all by their devilliſh power, who were as high in Wicked<g ref="char:EOLhyphen"/>neſs, Tyranny, and cruel oppreſſion, as any of you who are this
+<pb n="4" facs="tcp:42462:3"/> day thirſting for blood? Where are your Cardinals, Jeſuits, Fry<g ref="char:EOLhyphen"/>ars and Monks? Where are your Biſhops, Arch-biſhops, Dea<g ref="char:EOLhyphen"/>cons, and Deans? Where are your Abbots, Abbeys, Nunneries, and Biſhopricks? Where are your Altars, Croſſes, Candleſticks, Tippets, Surpliſes, and Common-Prayer-books? Where are your Rails about your Tables, your Organs, Quireſters, and ſinging-boys.</p>
+            <p>Even as your eyes have ſeen the overturning of all theſe, ſo ſhall the off-ſpring and reſidue follow after; and then ſhall the Prieſts howle, and the lamentation of the ſhepherds be heard in all the Land and the great men, and the rich men, and all the mighty of the Earth ſhall lament bitterly, and many of them ſhall curſe their God, and their King; for their Torment ſhall come in one day, and there ſhall be none to deliver; then ſhall your high places of Worſhip be left deſolate, and the Temple of the beaſt deſtroyed for ever, and all the Idols burnt with fire, &amp; the abominations of <hi>Molech</hi> confounded for ever, &amp; the Whore<g ref="char:EOLhyphen"/>doms of the Whore puniſhed with an everlaſting deſtruction; &amp; all them that have committed Fornication with the painted Harlot, ſhut up in the bed of torment and in the Winepreſs of the fierceneſs of the Wrath of the Almighty for evermore.</p>
+            <p>In that day ſhall the ſongs of your Temples be turned into howling for ever, the place of holy VVorſhip laid deſolate, and the dung of your ſolemn Feaſts ſpread upon your Faces; your rottenneſs ſhall appear, and your unſound parts be made mani<g ref="char:EOLhyphen"/>feſt; the Skirts of the Whore ſhall be diſcovered, &amp; all your na<g ref="char:EOLhyphen"/>kedneſſe that long in ſecret have committed Fornication with her, ſhall now appear to your everlaſting ſhame.</p>
+            <p>And this ſhal come upon you as a Whirlwind, &amp; overtake you as a Thief in the night, and when you cry peace, then ſhall de<g ref="char:EOLhyphen"/>ſtruction upon deſtruction come ſuddenly, and you ſhall not e<g ref="char:EOLhyphen"/>ſcape; torment ſhall take hold upon you; and anguiſh ſhall ſeiſe upon your inward parts; a fire ſhall be kindled in your bowels for ever, which ſhall burn, and none ſhall quench it.</p>
+            <p>Oh who ſhal ſtand in that day! or who ſhal be able to endure the terror of the Wrath of the Almighty! ſurely all the un<g ref="char:EOLhyphen"/>godly ſhall be as the graſs that is cut down in the heat of Sum<g ref="char:EOLhyphen"/>mer, and all the unrighteous as Fuel fitted for the fire: oh! whi<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:42462:3"/> then wil the ſinners flie for help, or the wicked for a refuge? Where ſhall the lyar ſtand? or how ſhall the proud endure? What ſhall be the end of them that know not God? and where will they be hid that obey not the Goſpel of his Son? Why cer<g ref="char:EOLhyphen"/>tainly into the Lake muſt they be turned, and with an utter overthrow ſhall be condemned for ever, as it is written, <hi>The wicked ſhall be turned into hell and all that forget God.</hi>
+            </p>
+            <p>Therefore lament, O ye Inhabitants of the Earth, for the Lord is become your enemy by reaſon of your ſins, he is raining ſnares as thick as hailſtones upon you, and the wiſe men ſhall be taken in their own craftineſs; Judges led away fools, Princes laid in the duſt, Diviners turned mad; and a curſe will come up<g ref="char:EOLhyphen"/>on all your goodly things; your glory ſhall vaniſh as the duſt, &amp; your beauty ſhall be as the dung upon the Earth, your riches ſhal eat you up as a Moth doth a garment; your chiefeſt delights wil be your greateſt torment; for the Lord is making the Earth empty, and wo to the inhabitants thereof for evermore, no de<g ref="char:EOLhyphen"/>liverer in it ſhal be found, neither yet any to comfort you, ther<g ref="char:EOLhyphen"/>fore ſhall the young man weep &amp; wail, and the ſtrong man cry bitterly; in that day the Prieſts ſhall howle, the honourable lament, and the ancient go mourning all the day long; for the Lord is changing times and ſeaſons, and the iniquity of the peo<g ref="char:EOLhyphen"/>ple is aſcended up, and the remembrance of the wicked is come before him, and once more will the Lord ſhake his hand againſt the wicked, as in the day of <hi>Sodom,</hi> and overturn the oppreſſors, as in the day of <hi>Phar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and ſhake the heavens, and the earth, and the ſea; and this ſhal be known when the Lord paſſeth through the Earth with his grounded ſtaff, and battels of ſha<g ref="char:EOLhyphen"/>kings.</p>
+            <p>And in that day ſhall your ſolemn meetings be confounded, your high places left deſolate and your goodly Temples defa<g ref="char:EOLhyphen"/>ced; bats and owls ſhall then build in your Steeplehouſes, and they ſhal be for the Fowls of the air to lodge in the night; the unclean beaſts, and ſpirits of devils do, and ſhall reſort thither; a den <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or dogs ſhal it be made; your bells ſhal come down after your Organs, and your Temples ſhattered as the old Abbeys, and a perpetual ſhame ſhal come upon all them that have been, &amp; are upholding the outward temple made with hands, where<g ref="char:EOLhyphen"/>in
+<pb n="6" facs="tcp:42462:4"/> God dwelleth not, and they themſelve a den of thieves, and ful of rottenneſs; therefore aſtoniſhment of heart ſhal come within, and deſtruction and overturnings without; fear on eve<g ref="char:EOLhyphen"/>ry hand, and amazment ſhall come upon all fleſh; then shall the Vine-dreſſers be ashamed, and them that preach peace to the Wicked shall no longer be hid.</p>
+            <p>VVherefore all you that have been Parliament members, &amp; all Judges, Mayors, Juſtices, and Conſtables, and all other Offi<g ref="char:EOLhyphen"/>cers &amp; people whatſoever, that have been upholding the wicked and oppreſſing the juſt, &amp; have been hatching miſchief againſt, and acting all manner of cruelty you could invent upon the ſervants of the Moſt High God; behold, the Lord wil kindle a fire in your bowels, which shal burn in the night-ſeaſon, and with all your ſtriving againſt it, and vain hope, shal you not be able to quench it; and when you should go to your grave in peace, even then shal the pangs of hel lay hold upon you, and utter darkneſs shal compaſs you in on every ſide: oh! fierce, furi<g ref="char:EOLhyphen"/>ous, &amp; vvith unſpeakable violence vvil the plagues of God come rolling in upon you like the unmerciful mighty waves of the Sea, which none can ſtop; for veri<g ref="char:EOLhyphen"/>ly<note place="margin">When I was ſick in Priſon, and for a long time ſo weak that nei<g ref="char:EOLhyphen"/>ther I, nor any friend then with me, did never know any one, and recover ſtrength in the body a<g ref="char:EOLhyphen"/>gain; at which time I gave up my life, and took my leave of friends, and lay down in the Fathers love, not feeling ſorrow or pain, friends hardly then knowing whether I breathed or not; in which time I ſaw things unutterable: and though heaven was opened, and two angels by my ſides to beare me away into the everlaſting reſt, yet was I left onely for this end, For the work of the lord amongſt the ſons of men for a time, and ſo came into the body again, and ha<g ref="char:EOLhyphen"/>ving ſeen before the way that all the wicked ſhall go out. And this I eternally witneſs to be true, and now this Paper is written as a warning from the lord by one that came as from the dead, and yet many of you will not believe.</note> and plainly I have ſeen the way that all the wicked shall go, and the place that they shall a<g ref="char:EOLhyphen"/>bide for ever, and none of their greatneſs in the world shal ſave them from it; and I have ſeen the place where the innocent (whom you hate) &amp; all that die in the Lord ſhal ſleep in the infiniteneſs of fulneſs of the Fountain of the Fathers unſpeak<g ref="char:EOLhyphen"/>able mercy, and unlimited love, where they ſhall reſt in the fulneſs of God for ever and ever; and the entrance thereinto is eaſier, and more to be deſir'd then to fall into aſleep, (the ſting of death being taken away.) And this I know, and teſtifie what I have ſeen and ſo warn all you (the Ene<g ref="char:EOLhyphen"/>mies of the Lamb, his dear Members, and your own ſouls of the day that is coming upon you, and the vials of Wrath that therein will be pour<g ref="char:EOLhyphen"/>ed forth upon you, who when you have felt tor<g ref="char:EOLunhyphen"/>ment in your ſelves, have then let wrath ariſe up
+<pb n="7" facs="tcp:42462:4"/> in You, whereby You have been filled with envie againſt a harm<g ref="char:EOLhyphen"/>leſs people, upon whom then (to get eaſe of that torment) You have acted that cruelty which afterwards the light of Chriſt in Your own conſciences hath condemned You for, and the ſame will condemn all You for ever that repent not.</p>
+            <p>And theſe things will certainly come to paſs, and then ſhall all the heathen know that the Lord is the ſame that ever he was, and that he hath heard the cry of the oppreſſed, and ſeen the af<g ref="char:EOLhyphen"/>fliction of his people, and taken notice of all your ſecret contri<g ref="char:EOLhyphen"/>vances againſt them who are born of, and led by the ſpirit, who are as the ſound of the wind unto You, that know not whence they come nor whither they go, who now ſuffers by you with Chriſt, and ſhall reign with him for ever and ever, when he who is their life, ſhal appear to confound Sions enemies for ever, and overturn the very foundations of the wicked, though never ſo great and high, and bring down the mighty from their ungodly ſeats, and overturn the inventions of the Wicked, &amp; pour forth everlaſting judgement upon the beaſt, and all them that bear his mark, or worſhip his image; &amp; when the Whore ſhal have blood to drink, and the mouths of her Merchants ſtopt for ever, and all them that love, and make lies their refuge, with all the un<g ref="char:EOLhyphen"/>clean and unbelieving (who receive honor one of another) and all the blood-thirſtie turned into the Lake, then ſhal righte<g ref="char:EOLhyphen"/>ouſneſs ſpread over the Nations as the morning-dew, and holi<g ref="char:EOLhyphen"/>neſs as the light of the Sun in Summer; and judgment run down as Water, and peace ſpring up as a Fountain that overflows, and is never dry.</p>
+            <p>In that day ſhall the poor of the flock be gathered, and the outcaſts of Iſrael return; deliverance ſhal come to the captives, and joy to them that have mourned; the wilderneſs ſhal then re<g ref="char:EOLhyphen"/>joice, and the deſart be glad for evermore; ſprings ſhall ariſe in the deſart, and a Fountain ſhal be opened in the wilderneſs, the Standard of the Lord ſhal be lifted up on high, the ſcattered in the deſart, and the meek of the Earth ſhal flow unto it; Nations ſhal turn unto the Lord of Hoſts, and people be gathered to the banner of the Moſt High; they ſhal feed together as the Lambs in the morning, and be ſatisfied as the Flock in Summer; and then ſhall Sions mourners be comforted and filled with joy for
+<pb n="8" facs="tcp:42462:5"/> ever; then ſhal they shout aloud for joy, with halelujah for ever<g ref="char:EOLhyphen"/>more, when the ſmoke of the torment of the Whore (her lo<g ref="char:EOLhyphen"/>vers and her brats) aſcends up as the ſmoke of Sodom for ever and ever.</p>
+            <p>Then shall glory, and honor, and praiſe ariſe from them that were beheaded for the teſtimony of Jeſus the light of the world, and unto him that ſitteth upon the Throne, and the captives shall come out of their captivity, and the priſoner out of the pit; and every bond-man shall be ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t at liberty, and thoſe that are at eaſe and liberty in the flesh, ſhall be bound with chains of everlaſting darkneſs for ever &amp; ever, &amp; they shal be tormented day and night in the preſence of the holy Angels, and in the preſence of the Lamb (who is light) even all them who wil not that he should reign who is the Lamb and the light; and then shall they ſee <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> who wandered up and down and were ſtrangers and pilgrims on the Earth; theſe with all their Seed then shall they ſee in the Kingdom and Dominion of God, and they themſelves shut out, and ſo the parable of the rich man and <hi>Lazarus</hi> shall they know fulfilled.</p>
+            <p>VVherefore wo, wo, wo to the Inhabitants of the Earth, and (all you the Enemies of the Lamb, by reaſon of the judgements that are) yet to come, for your proud flesh, which is as the flesh of horſes, shall be as dung upon the Earth, and your flesh is to be given unto the Fowls of the air to feed upon; for the day of the great ſlaughter is at hand, and the battel of the great King shall be ſet in order, and every battel of the VVarrier is with confuſed noiſe, and garments rolled in blood, but this shall be with burning and Fuel of fire, and blood shall all them have to drink who are found in Babel the great whore, that long have made the great men of the earth rich, in whom the blood of all the Saints is found, from <hi>Abel</hi> unto this day, wherein she &amp; her children are thirſting for the blood of all them who believe in the light.</p>
+            <closer>
+               <dateline>
+                  <date>VVritten upon the ſeventh &amp; eight days of the ſecond month,</date>
+               </dateline>
+               <signed> by him who ſuffers by ſome of Gogs Army in the Houſe of Correction, and Common-Goal for <hi>Hampſhire,</hi> called <hi>Humphrey Smith.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Simmons,</hi> 1658.</p>
+            <pb facs="tcp:42462:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
